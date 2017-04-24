@@ -4,4 +4,10 @@
     <string name="title_add_word">Add word</string>
     <string name="title_edit_word">Edit Words</string>
     <string name="title_definition">definition</string>
+    <string name="action_insert_random_word">Insert random word</string>
+    <string name="action_delete_all_entries">Delete all words</string>
+    <string name="word_hint">Enter new word</string>
+    <string name="define_btn">Get definition</string>
+    <string name="definition_hint">Enter definition here</string>
+    <string name="save_btn">Save Word</string>
 </resources>
